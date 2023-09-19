@@ -762,6 +762,12 @@ a.btn-cta {
   margin: 0 auto;
   margin-bottom: 60px;
 }
+/* karta */
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .navbar-collapse {
